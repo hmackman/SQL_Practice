@@ -1,0 +1,3 @@
+For each query that was written it returned each of the required fields with a total number of rows as well.
+For each query it will show the total number of rows that met the criteria we queried for.
+I found that there were many employees contained within these csv files that we converted into tables.
